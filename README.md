@@ -146,7 +146,7 @@ nasa-turbofan-predictive-maintenance/
 │
 ├── NASA_Turbofan_Predictive_Maintenance_FD001.ipynb
 ├── requirements.txt
-└── README_nasa_turbofan.md
+└── README.md
 ```
 
 ---
